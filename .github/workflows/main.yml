@@ -13,7 +13,7 @@ jobs:
   policy_update:
     runs-on: ubuntu-latest
     env:
-      console_address: https://api.prismacloud.io
+      console_address: https://api0.prismacloud.io
     
     defaults:
       run:
