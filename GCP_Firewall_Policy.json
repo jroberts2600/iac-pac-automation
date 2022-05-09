@@ -1,7 +1,7 @@
 {
 	"cloudType": "gcp",
 	"complianceMetadata": [],
-	"description": "Custom GCP Policy",
+	"description": "Custom GCP Policy-jr",
 	"labels": [],
 	"name": "Custom GCP Policy",
 	"policySubTypes": ["build"],
