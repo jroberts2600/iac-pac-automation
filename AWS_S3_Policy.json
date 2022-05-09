@@ -1,6 +1,6 @@
 {
     "cloudType": "aws",
-    "name": "AWS S3 Demo Policy",
+    "name": "AWS S3 Demo Policy-jr",
     "policySubTypes": [
         "build"
     ],
